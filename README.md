@@ -1,2 +1,1 @@
-# PreCurse_Juan
-Este es un repositorio del modulo 2 de Juan
+Este proyecto es una prueba de como clonar un repositorio a mi escritorio desde github.
